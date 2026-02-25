@@ -60,6 +60,7 @@ dotnet ef database update
 
 # Rode a aplicação
 dotnet run
+```
 
 ### **2. Configuração do Frontend**
 ```bash
@@ -71,3 +72,4 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+```
