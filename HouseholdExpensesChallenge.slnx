@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HouseholdExpenses.Application/HouseholdExpenses.Application.csproj" Id="e3492516-2b39-4421-8c2b-8dc4b7af0d79" />
+  <Project Path="HouseholdExpenses.Domain/HouseholdExpenses.Domain.csproj" Id="3cd89051-eb88-4dbf-bf2b-069870e34da1" />
+  <Project Path="HouseholdExpenses.Infrastructure/HouseholdExpenses.Infrastructure.csproj" Id="beb1fed5-c9e5-4068-8c4e-1b87ca1c0d01" />
+  <Project Path="HouseholdExpensesAPI/HouseholdExpensesAPI.csproj" Id="e1a0726d-7bba-4205-8d0a-43ffb3a67361" />
+</Solution>
